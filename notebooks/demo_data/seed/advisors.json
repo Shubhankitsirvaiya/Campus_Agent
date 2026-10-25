@@ -1,0 +1,7 @@
+[
+  {"advisor_id":"ADV-CS-01","full_name":"Dr. Neel Shah","department":"Computer Science","email":"neel.shah@northstar.edu","approval_scope":["probation_plan","graduation_clearance","credit_overload"],"office_hours":"Monday and Thursday 15:00-17:00"},
+  {"advisor_id":"ADV-CS-02","full_name":"Dr. Farah Khan","department":"Computer Science","email":"farah.khan@northstar.edu","approval_scope":["study_plan","prerequisite_waiver","specialization_review"],"office_hours":"Tuesday 10:00-12:00, Friday 14:00-16:00"},
+  {"advisor_id":"ADV-CS-03","full_name":"Prof. Vikram Kulkarni","department":"Computer Science","email":"vikram.kulkarni@northstar.edu","approval_scope":["study_plan","credit_overload","course_substitution"],"office_hours":"Wednesday 14:00-17:00"},
+  {"advisor_id":"ADV-DS-01","full_name":"Dr. Leena Nair","department":"Data Science","email":"leena.nair@northstar.edu","approval_scope":["study_plan","transfer_credit","accessibility_schedule"],"office_hours":"Monday 11:00-13:00, Thursday 13:00-15:00"}
+]
+

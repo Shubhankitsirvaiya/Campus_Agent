@@ -1,0 +1,16 @@
+aiosqlite
+fastapi
+httpx
+ipykernel
+jupyter
+langchain
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
+python-dotenv
+pydantic
+pydantic-settings
+pytest
+pytest-asyncio
+uvicorn
+

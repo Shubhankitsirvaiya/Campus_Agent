@@ -1,0 +1,9 @@
+[
+  {"memory_id":"MEM-STU017-01","student_id":"STU-2024-017","kind":"preference","text":"Avoid classes before 10:00 because the student commutes from outside the city.","source":"advisor_meeting:2026-04-18","confidence":0.98,"created_at":"2026-04-18T11:20:00+05:30"},
+  {"memory_id":"MEM-STU017-02","student_id":"STU-2024-017","kind":"goal","text":"Wants an AI specialization while keeping data engineering as a practical secondary pathway.","source":"planning_session:2026-04-18","confidence":0.96,"created_at":"2026-04-18T11:25:00+05:30"},
+  {"memory_id":"MEM-STU044-01","student_id":"STU-2023-044","kind":"advisor_constraint","text":"During probation, prioritize repeat requirements and a sustainable maximum of 18 credits.","source":"academic_progress_committee:2026-05-05","confidence":1.0,"created_at":"2026-05-05T16:00:00+05:30"},
+  {"memory_id":"MEM-STU103-01","student_id":"STU-2025-103","kind":"accessibility","text":"Schedule only step-free rooms and preserve at least ten minutes for movement between buildings.","source":"accessibility_office:2025-08-02","confidence":1.0,"created_at":"2025-08-02T10:00:00+05:30"},
+  {"memory_id":"MEM-STU012-01","student_id":"STU-2022-012","kind":"graduation","text":"Humanities breadth remains unresolved; do not treat total credits alone as graduation completion.","source":"graduation_audit:2026-06-10","confidence":1.0,"created_at":"2026-06-10T09:30:00+05:30"},
+  {"memory_id":"MEM-STU088-01","student_id":"STU-2024-088","kind":"goal","text":"Student is considering a 23-credit overload to preserve Spring 2027 for a full-time internship.","source":"advisor_meeting:2026-06-12","confidence":0.92,"created_at":"2026-06-12T14:10:00+05:30"}
+]
+

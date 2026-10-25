@@ -1,0 +1,83 @@
+[
+  {
+    "program_id":"BTECH-CSE-2024",
+    "program_name":"B.Tech. Computer Science and Engineering",
+    "catalog_year":2024,
+    "total_credits":160,
+    "standard_min_credits":18,
+    "standard_max_credits":22,
+    "minimum_cgpa":5.0,
+    "requirements":[
+      {"category":"Mathematics","minimum_credits":20,"required_courses":["MA101","MA102","MA201","MA202"]},
+      {"category":"Core Computer Science","minimum_credits":52,"required_courses":["CS101","CS102","CS201","CS202","CS203","CS204","CS301","CS304"]},
+      {"category":"Laboratory","minimum_credits":12,"required_courses":["CS190","CS290","CS390"]},
+      {"category":"Humanities","minimum_credits":12,"required_courses":[]},
+      {"category":"Program Elective","minimum_credits":24,"required_courses":[]},
+      {"category":"Capstone","minimum_credits":8,"required_courses":["CS491","CS492"]}
+    ],
+    "specializations":[
+      {"name":"Artificial Intelligence","minimum_credits":18,"gateway_courses":["MA202","CS301"],"eligible_electives":["AI302","AI303","DS301","AI401"],"minimum_cgpa":7.0},
+      {"name":"Software Systems","minimum_credits":18,"gateway_courses":["CS202","CS304"],"eligible_electives":["CS303","CS305","CS401"],"minimum_cgpa":6.5},
+      {"name":"Cybersecurity","minimum_credits":18,"gateway_courses":["CS304"],"eligible_electives":["CY301","CY302","CY401"],"minimum_cgpa":6.5}
+    ]
+  },
+  {
+    "program_id":"BTECH-CSE-2023",
+    "program_name":"B.Tech. Computer Science and Engineering",
+    "catalog_year":2023,
+    "total_credits":160,
+    "standard_min_credits":18,
+    "standard_max_credits":22,
+    "minimum_cgpa":5.0,
+    "requirements":[
+      {"category":"Mathematics","minimum_credits":20,"required_courses":["MA101","MA102","MA201","MA202"]},
+      {"category":"Core Computer Science","minimum_credits":52,"required_courses":["CS101","CS102","CS201","CS202","CS203","CS204","CS301","CS304"]},
+      {"category":"Laboratory","minimum_credits":12,"required_courses":["CS190","CS290","CS390"]},
+      {"category":"Humanities","minimum_credits":12,"required_courses":[]},
+      {"category":"Program Elective","minimum_credits":24,"required_courses":[]},
+      {"category":"Capstone","minimum_credits":8,"required_courses":["CS491","CS492"]}
+    ],
+    "specializations":[
+      {"name":"Artificial Intelligence","minimum_credits":18,"gateway_courses":["MA202","CS301"],"eligible_electives":["AI302","AI303","DS301"],"minimum_cgpa":7.0},
+      {"name":"Software Systems","minimum_credits":18,"gateway_courses":["CS202","CS304"],"eligible_electives":["CS303","CS305"],"minimum_cgpa":6.5}
+    ]
+  },
+  {
+    "program_id":"BTECH-CSE-2022",
+    "program_name":"B.Tech. Computer Science and Engineering",
+    "catalog_year":2022,
+    "total_credits":160,
+    "standard_min_credits":16,
+    "standard_max_credits":22,
+    "minimum_cgpa":5.0,
+    "requirements":[
+      {"category":"Mathematics","minimum_credits":20,"required_courses":["MA101","MA102","MA201","MA202"]},
+      {"category":"Core Computer Science","minimum_credits":52,"required_courses":["CS101","CS102","CS201","CS202","CS203","CS204","CS301","CS304"]},
+      {"category":"Laboratory","minimum_credits":12,"required_courses":["CS190","CS290","CS390"]},
+      {"category":"Humanities","minimum_credits":15,"required_courses":[]},
+      {"category":"Program Elective","minimum_credits":21,"required_courses":[]},
+      {"category":"Capstone","minimum_credits":8,"required_courses":["CS491","CS492"]}
+    ],
+    "specializations":[
+      {"name":"Artificial Intelligence","minimum_credits":18,"gateway_courses":["MA202","CS301"],"eligible_electives":["AI302","AI303","DS301"],"minimum_cgpa":7.0}
+    ]
+  },
+  {
+    "program_id":"BSC-DS-2025",
+    "program_name":"B.Sc. Data Science",
+    "catalog_year":2025,
+    "total_credits":120,
+    "standard_min_credits":18,
+    "standard_max_credits":22,
+    "minimum_cgpa":5.0,
+    "requirements":[
+      {"category":"Mathematics and Statistics","minimum_credits":28,"required_courses":["MA101","MA201","MA202","DS201"]},
+      {"category":"Computing","minimum_credits":24,"required_courses":["CS101","CS102","CS201"]},
+      {"category":"Data Science Core","minimum_credits":32,"required_courses":["DS202","DS301","DS302"]},
+      {"category":"Humanities","minimum_credits":12,"required_courses":[]},
+      {"category":"Project","minimum_credits":8,"required_courses":["DS491"]}
+    ],
+    "specializations":[{"name":"Statistical Learning","minimum_credits":16,"gateway_courses":["MA202","DS201"],"eligible_electives":["DS301","DS302","AI302"],"minimum_cgpa":7.0}]
+  }
+]
+

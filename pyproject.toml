@@ -1,0 +1,10 @@
+[project]
+name = "campuspath-academic-agent"
+version = "0.1.0"
+description = "A LangGraph academic planning and enrollment execution agent."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+

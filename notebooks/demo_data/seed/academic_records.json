@@ -1,0 +1,73 @@
+[
+  {
+    "student_id":"STU-2024-017",
+    "records":[
+      {"course_code":"CS101","term":"Monsoon 2024","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"MA101","term":"Monsoon 2024","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"CS190","term":"Monsoon 2024","grade":"A","grade_points":9.0,"credits":2,"status":"completed"},
+      {"course_code":"CS102","term":"Spring 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"MA102","term":"Spring 2025","grade":"B+","grade_points":7.0,"credits":4,"status":"completed"},
+      {"course_code":"HU101","term":"Spring 2025","grade":"A","grade_points":9.0,"credits":3,"status":"completed"},
+      {"course_code":"CS201","term":"Monsoon 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS202","term":"Monsoon 2025","grade":"B+","grade_points":7.0,"credits":4,"status":"completed"},
+      {"course_code":"MA201","term":"Monsoon 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"CS204","term":"Spring 2026","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS290","term":"Spring 2026","grade":"A","grade_points":9.0,"credits":2,"status":"completed"},
+      {"course_code":"EC210","term":"Spring 2026","grade":"B+","grade_points":7.0,"credits":3,"status":"completed"}
+    ]
+  },
+  {
+    "student_id":"STU-2023-044",
+    "records":[
+      {"course_code":"CS101","term":"Monsoon 2023","grade":"C","grade_points":5.0,"credits":4,"status":"completed"},
+      {"course_code":"CS102","term":"Spring 2024","grade":"C","grade_points":5.0,"credits":4,"status":"completed"},
+      {"course_code":"CS201","term":"Monsoon 2024","grade":"B","grade_points":6.0,"credits":4,"status":"completed"},
+      {"course_code":"CS202","term":"Monsoon 2024","grade":"C","grade_points":5.0,"credits":4,"status":"completed"},
+      {"course_code":"CS304","term":"Monsoon 2025","grade":"D","grade_points":4.0,"credits":4,"status":"completed"},
+      {"course_code":"CS305","term":"Spring 2026","grade":"F","grade_points":0.0,"credits":0,"status":"failed"}
+    ]
+  },
+  {
+    "student_id":"STU-2025-103",
+    "records":[
+      {"course_code":"CS101","term":"Monsoon 2025","grade":"A+","grade_points":10.0,"credits":4,"status":"completed"},
+      {"course_code":"MA101","term":"Monsoon 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS102","term":"Spring 2026","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"MA201","term":"Spring 2026","grade":"A+","grade_points":10.0,"credits":4,"status":"completed"},
+      {"course_code":"EXT-STAT-01","term":"Summer 2026","grade":"Pending","grade_points":null,"credits":0,"status":"transfer_pending"}
+    ]
+  },
+  {
+    "student_id":"STU-2024-061",
+    "records":[
+      {"course_code":"CS101","term":"Monsoon 2024","grade":"B+","grade_points":7.0,"credits":4,"status":"completed"},
+      {"course_code":"CS102","term":"Spring 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"CS201","term":"Monsoon 2025","grade":"B+","grade_points":7.0,"credits":4,"status":"completed"},
+      {"course_code":"CS202","term":"Monsoon 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"CS204","term":"Spring 2026","grade":"B+","grade_points":7.0,"credits":4,"status":"completed"},
+      {"course_code":"MA201","term":"Spring 2026","grade":"B","grade_points":6.0,"credits":4,"status":"completed"}
+    ]
+  },
+  {
+    "student_id":"STU-2022-012",
+    "records":[
+      {"course_code":"CS301","term":"Monsoon 2024","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"AI302","term":"Spring 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"AI303","term":"Monsoon 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS491","term":"Monsoon 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"HU205","term":"Spring 2024","grade":"B+","grade_points":7.0,"credits":3,"status":"completed"}
+    ]
+  },
+  {
+    "student_id":"STU-2024-088",
+    "records":[
+      {"course_code":"CS101","term":"Monsoon 2024","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS102","term":"Spring 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"CS201","term":"Monsoon 2025","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"},
+      {"course_code":"CS202","term":"Monsoon 2025","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"MA201","term":"Spring 2026","grade":"A","grade_points":9.0,"credits":4,"status":"completed"},
+      {"course_code":"MA202","term":"Spring 2026","grade":"A-","grade_points":8.0,"credits":4,"status":"completed"}
+    ]
+  }
+]
+
